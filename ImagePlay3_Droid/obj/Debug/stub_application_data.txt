@@ -1,0 +1,2 @@
+android.app.Application
+ImagePlay3_Droid.ImagePlay3_Droid

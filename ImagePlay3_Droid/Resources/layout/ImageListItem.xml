@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ImagePlay3_Droid.Custom.CustomCell xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#008C00">
+  <!--
+  <ImagePlay3_Droid.Custom.CustomImageView
+      android:id="@+id/image"
+      android:layout_width="match_parent"
+      android:layout_height="200dp"
+      android:layout_margin="5dp"
+      android:layout_gravity="center_horizontal"
+      android:scaleType="fitCenter"/>
+  <TextView
+      android:id="@+id/filterName"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textAppearance="?android:attr/textAppearanceLarge"
+      android:gravity="center_horizontal"/>
+  -->
+    <TableRow
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:padding="5dp">
+      <ImageView
+         android:layout_width="20dp"
+         android:layout_height="20dp"
+         android:layout_gravity="center_vertical|left"
+         android:src="@drawable/Bazookas_Logo"/>
+      <TextView
+        android:id="@+id/filterName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:gravity="center_horizontal"/>
+      <ImageView
+         android:layout_width="20dp"
+         android:layout_height="20dp"
+         android:layout_gravity="center_vertical|right"
+         android:src="@drawable/Bazookas_Logo"/>
+    </TableRow>
+
+    <!--
+    <TableRow>
+      <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:maxLines="4"
+        android:singleLine="false"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse molestie libero quis congue varius. Vestibulum sed nibh a dui fringilla accumsan."
+        />
+    </TableRow>
+    -->
+    
+    <TableRow
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:padding="5dp">
+      <ImagePlay3_Droid.Custom.CustomImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_margin="5dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_span="3"
+        android:scaleType="fitCenter"/>
+
+    </TableRow>
+</ImagePlay3_Droid.Custom.CustomCell>

@@ -1,0 +1,15 @@
+<resources><string name="Hello">Hello World, Click Me!</string><string name="ApplicationName">ImagePlay3_Droid</string><string name="testje">dit is een test.</string><string name="LoremIpsum">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Morbi neque lacus, tempor at congue eget, dignissim id erat.
+    Vivamus semper tellus vitae augue consectetur, sit amet suscipit sapien ultricies.
+    Maecenas tempor, odio eget fringilla interdum, libero tellus congue diam, a vehicula nulla mi eu eros.
+    Morbi eget scelerisque lectus. Nullam vestibulum, eros a fringilla egestas, enim ligula ultrices erat, a scelerisque ante nunc non risus.
+    Aliquam vestibulum, urna quis tempus mollis, metus tellus tempor tortor, eget sollicitudin mi tellus a sem.
+    Praesent hendrerit hendrerit tortor.
+    Proin massa est, porta sit amet diam nec, dictum dignissim odio.
+    Etiam non velit sed mi malesuada sollicitudin.
+    Fusce finibus eleifend justo, in pellentesque urna.
+    Suspendisse at magna ut purus egestas rhoncus quis ac diam.
+    Mauris commodo auctor euismod. Etiam egestas at augue sit amet pellentesque.
+    Phasellus rhoncus ut risus vel accumsan.
+  </string><string name="icon_heart">b</string></resources>

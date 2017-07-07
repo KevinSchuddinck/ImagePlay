@@ -1,0 +1,23 @@
+<md59af168b04ed056ecc597dd2c32ab218f.ItemView android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:background="#FFC900" xmlns:android="http://schemas.android.com/apk/res/android"><LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:gravity="center" android:weightSum="8"><TextView android:id="@+id/icon" android:layout_width="0dp" android:layout_height="20dp" android:gravity="center" android:layout_weight="1" android:text="@string/icon_heart" /><TextView android:id="@+id/filterName" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="6" android:textAppearance="?android:attr/textAppearanceLarge" android:gravity="center_horizontal" android:text="testetestsetsetsetsetset" /><ImageView android:layout_width="0dp" android:layout_height="20dp" android:layout_weight="1" android:layout_gravity="center" android:src="@drawable/bazookas_logo" /></LinearLayout><TextView android:layout_marginTop="10dp" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:layout_marginBottom="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceSmall" android:singleLine="false" android:maxLines="4" android:ellipsize="end" android:text="@string/LoremIpsum" /><!--
+  <RelativeLayout>
+    
+  </RelativeLayout>
+    <android.support.v4.widget.ContentLoadingProgressBar
+        android:id="@+id/progressbar"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        style="?android:attr/progressBarStyle"
+        android:layout_gravity="center_horizontal"
+        android:visibility="visible"
+        />
+    
+    <ImagePlay3_Droid.Custom.CustomImageView
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="10dp"
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/Seal_of_Approval" />
+        --><RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp"><md59af168b04ed056ecc597dd2c32ab218f.CustomImageView android:id="@+id/image" android:layout_marginLeft="5dp" android:layout_marginRight="5dp" android:layout_width="match_parent" android:layout_height="200dp" android:layout_centerInParent="true" android:src="@drawable/seal_of_approval" /><android.support.v4.widget.ContentLoadingProgressBar android:id="@+id/progressbar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginRight="5dp" android:visibility="visible" android:layout_centerInParent="true" style="?android:attr/progressBarStyle" /></RelativeLayout></md59af168b04ed056ecc597dd2c32ab218f.ItemView>

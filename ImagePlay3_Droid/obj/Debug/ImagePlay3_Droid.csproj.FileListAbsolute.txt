@@ -1,0 +1,203 @@
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\ImagePlay3_Droid.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\ImagePlay3_Droid.pdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\ImagePlay3_Droid.ImagePlay3_Droid.apk
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\ImagePlay3_Droid.ImagePlay3_Droid-Signed.apk
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\Square.OkHttp.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\Square.OkIO.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\Square.Picasso.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\ImagePlay3_Droid.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\ImagePlay3_Droid.pdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\bin\ImagePlay3_Droid.ImagePlay3_Droid.apk
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\layout\activity_mylistview.xml
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\layout\activity_mycollectionview.xml
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\layout\item.xml
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\layout\main.xml
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\values\strings.xml
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable\icon.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-hdpi\ic_tab_my_schedule_selected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-hdpi\ic_tab_my_schedule_unselected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-hdpi\ic_tab_sessions_selected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-hdpi\ic_tab_sessions_unselected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-hdpi\ic_tab_speakers_selected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-hdpi\ic_tab_speakers_unselected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-hdpi\ic_tab_whats_on_selected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-hdpi\ic_tab_whats_on_unselected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-mdpi\ic_tab_my_schedule_selected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-mdpi\ic_tab_my_schedule_unselected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-mdpi\ic_tab_sessions_selected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-mdpi\ic_tab_sessions_unselected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-mdpi\ic_tab_speakers_selected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-mdpi\ic_tab_speakers_unselected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-mdpi\ic_tab_whats_on_selected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-mdpi\ic_tab_whats_on_unselected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-xhdpi\ic_tab_my_schedule_selected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-xhdpi\ic_tab_my_schedule_unselected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-xhdpi\ic_tab_sessions_selected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-xhdpi\ic_tab_sessions_unselected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-xhdpi\ic_tab_speakers_selected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-xhdpi\ic_tab_speakers_unselected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-xhdpi\ic_tab_whats_on_selected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-xhdpi\ic_tab_whats_on_unselected.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable\seal_of_approval.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable\gradient_bg.xml
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable\white_cricle.xml
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable\loading_image.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable\loading_animation.xml
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable\bazookas_logo.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\R.cs.flag
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\uploadflags.txt
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\ImagePlay3_Droid.csprojResolveAssemblyReference.cache
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable\loading_image_small.png
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\ImagePlay3_Droid.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\Java.Interop.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\Mono.Android.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\mscorlib.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\System.Core.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\System.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\System.Net.Http.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\System.Xml.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\bin\Debug\System.Xml.Linq.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\ImagePlay3_Droid.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\System.Core.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\System.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\USER FILES\KEVIN\Documents\Visual Studio 2015\Projects\Xamarin\ImagePlay3\ImagePlay3_Droid\obj\Debug\ImagePlay3_Droid.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\ImagePlay3_Droid.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\ImagePlay3_Droid.pdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\ImagePlay3_Droid.ImagePlay3_Droid.apk
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\ImagePlay3_Droid.ImagePlay3_Droid-Signed.apk
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Square.OkHttp.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Square.OkIO.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Square.Picasso.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\ImagePlay3_Droid.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\ImagePlay3_Droid.pdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\bin\ImagePlay3_Droid.ImagePlay3_Droid.apk
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\layout\activity_mylistview.xml
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\layout\activity_mycollectionview.xml
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\layout\item.xml
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\layout\main.xml
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\values\strings.xml
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable\icon.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-hdpi\ic_tab_my_schedule_selected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-hdpi\ic_tab_my_schedule_unselected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-hdpi\ic_tab_sessions_selected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-hdpi\ic_tab_sessions_unselected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-hdpi\ic_tab_speakers_selected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-hdpi\ic_tab_speakers_unselected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-hdpi\ic_tab_whats_on_selected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-hdpi\ic_tab_whats_on_unselected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-mdpi\ic_tab_my_schedule_selected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-mdpi\ic_tab_my_schedule_unselected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-mdpi\ic_tab_sessions_selected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-mdpi\ic_tab_sessions_unselected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-mdpi\ic_tab_speakers_selected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-mdpi\ic_tab_speakers_unselected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-mdpi\ic_tab_whats_on_selected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-mdpi\ic_tab_whats_on_unselected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-xhdpi\ic_tab_my_schedule_selected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-xhdpi\ic_tab_my_schedule_unselected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-xhdpi\ic_tab_sessions_selected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-xhdpi\ic_tab_sessions_unselected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-xhdpi\ic_tab_speakers_selected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-xhdpi\ic_tab_speakers_unselected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-xhdpi\ic_tab_whats_on_selected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable-xhdpi\ic_tab_whats_on_unselected.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable\seal_of_approval.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable\gradient_bg.xml
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable\white_cricle.xml
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\drawable\bazookas_logo.png
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\R.cs.flag
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\uploadflags.txt
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\GlideAssembly.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\layout\activity_camera.xml
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Newtonsoft.Json.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Newtonsoft.Json.xml
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\PhotoView.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\res\layout\activity_englareimage.xml
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Refractored.FloatingActionButton.dll
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Refractored.FloatingActionButton.pdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Refractored.FloatingActionButton.xml
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Refractored.FloatingActionButton.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\ImagePlay3_Droid.csprojResolveAssemblyReference.cache
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\ImagePlay3_Droid.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Java.Interop.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\Mono.Android.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\mscorlib.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\System.Core.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\System.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\System.Net.Http.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\System.Runtime.Serialization.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\System.Xml.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\System.Xml.Linq.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\ImagePlay3_Droid.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\Java.Interop.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\Mono.Android.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\mscorlib.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\Refractored.FloatingActionButton.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\System.Core.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\System.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\System.Xml.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\obj\Debug\ImagePlay3_Droid.dll.mdb
+D:\BAZOOKAS STAGE\ImagePlay3\ImagePlay3_Droid\bin\Debug\ImagePlay3_Droid.dll.mdb
